@@ -1,7 +1,5 @@
 /***
  * Veronique Justinvil 
- * CSE 017: Person  
- * Ziltz
  * Using Inheritance & Polymorphism to create person objects  
  * 8/30/2022
  * 
